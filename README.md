@@ -13,7 +13,7 @@ The key feature is the inclusion of **Grad-CAM** (Gradient-weighted Class Activa
 
 ## 📸 Demo
 
-![Demo Image](https://raw.githubusercontent.com/Si-ra-kri/MNIST_Digit_Classifier_GradCAM/main/Images/Screenshot%202025-11-16%20131522.png)
+![Demo Image]([https://raw.githubusercontent.com/Si-ra-kri/MNIST_Digit_Classifier_GradCAM/main/Images/Screenshot%202025-11-16%20131522.png](https://github.com/Si-ra-kri/MNIST_Digit_Classifier_GradCAM/blob/main/Images/demo.png))
 
 Here is the model correctly identifying a user-uploaded image of the digit "2" with 99.99% confidence. The Grad-CAM heatmap clearly shows the model focused on the correct strokes of the digit.
 
